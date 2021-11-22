@@ -19,7 +19,7 @@ cover: http://pic.yupoo.com/ptbxcp/c2a566ce/cb3b9156.jpeg
 ## <center><font color=red >微信号：ptbxcp，<<微商相册小程序码>> 往下滑</font> </center>
 
 ### 添加客服微信咨询
-### 更多商品请添加微信<font color=red bold>（微信号：ptbxcp）</font>或关注微商相册。微信扫描以下小程序码，<font color=red bold>手机访问的话保存图片，微信扫一扫打开图片识别即可</font>
+### 更多商品请添加微信<font color=red bold>（微信号：ptbxcp）</font>或关注微商相册。微信扫描以下小程序码，<font color=red bold>手机访问的话直接截图，不要保存图片，微信扫一扫打开图片识别即可</font>
 
 <div align='center'><img src='http://pic.yupoo.com/ptbxcp/ea121d6a/433ef5ff.png' /></div>
 

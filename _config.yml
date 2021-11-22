@@ -4,7 +4,7 @@
 
 # Site
 title: 白熊潮品
-subtitle: '用心分享最新潮流 - 点击文章标题进入详情'
+subtitle: '用心分享最新潮流 - 点击文章标题进入详情 - 手机浏览点击左上角菜单'
 description: '白熊潮文化工作室官方网站，分享潮品使用反馈、潮牌资讯以及特价活动'
 keywords: 莆田鞋,耐克,阿迪,椰子,彪马,三叶草,Yeezy,潮牌,常熟货源,篮球鞋,纯原,过毒
 author: 大熊
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://gpzfake.com
+url: https://gpzfake.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
