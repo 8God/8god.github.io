@@ -1,10 +1,11 @@
 ---
 layout: goods
 title: AJ1高中低帮合集
-date: 2021-11-25 23:20:15
+date: 2021-11-26 23:59:56
 tags: [耐克,AJ,AJ1]
 categories: [主推商品]
 cover: https://xcimg.szwego.com/20211009/i1633716660_6443_1.jpg?imageMogr2/auto-orient/thumbnail/!520x520r/quality/100/format/jpg
+top: true
 ---
 
 
