@@ -105,3 +105,10 @@ deploy:
   type: git
   repo: git@github.com:8God/8god.github.io.git
   branch: main
+
+# hexo-admin authentification
+admin:
+  username: cth
+  password_hash: $2a$10$rUrDVLUo8Z1.2wrKgrEi6.SOIy6cv9eZk0Khy/ENIclWRnNsyYUBa
+  secret: Cth19910127!
+  deployCommand: './admin_script.sh'
